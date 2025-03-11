@@ -30,8 +30,8 @@ A web application that allows users to translate long PDF documents using variou
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
-   cd pdf-translator
+   git clone https://github.com/Shayan5422/Translate_long_PDF
+   cd Translate_long_PDF
    ```
 
 2. Create and activate a virtual environment (recommended):
